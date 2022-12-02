@@ -1,0 +1,14 @@
+# Install VirtualBox
+https://www.virtualbox.org/
+
+# Install Kali VM
+https://www.kali.org/get-kali/
+
+#Check Version of Python (=< 3.6)
+# Install Python3
+
+#Install v(irtual) env(ironment)
+sudo apt-get install python3-venv
+
+# Activate venv
+python3 -m venv venv3
