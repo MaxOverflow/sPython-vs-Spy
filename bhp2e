@@ -10,5 +10,11 @@ https://www.kali.org/get-kali/
 #Install v(irtual) env(ironment)
 sudo apt-get install python3-venv
 
-# Activate venv
+# Initialise venv
 python3 -m venv venv3
+
+# Activate venv
+source venv3/bin/activate
+
+# Deactivate venv
+(venv3)$ deactivate
