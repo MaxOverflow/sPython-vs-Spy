@@ -18,3 +18,9 @@ source venv3/bin/activate
 
 # Deactivate venv
 (venv3)$ deactivate
+
+# Pip pip, old chap
+pip install --upgrade pip
+pip install lxml
+
+__name__ == '__main__'
